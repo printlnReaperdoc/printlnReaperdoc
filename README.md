@@ -9,7 +9,7 @@
 <h4 align="center">Currently studying at Technological University of the Philippines – Taguig Campus</h4>
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/shipping/images/b/ba/Ykrn.png/revision/latest?cb=20220702183154" width="60%" alt="Bang Dream Bandori GIF">
+  <img src="https://static.wikia.nocookie.net/shipping/images/b/ba/Ykrn.png/revision/latest?cb=20220702183154" width="40%" alt="Bang Dream Bandori GIF">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=printlnreaperdoc&label=Profile%20views&color=0e75b6&style=flat" alt="printlnreaperdoc" /> </p>
