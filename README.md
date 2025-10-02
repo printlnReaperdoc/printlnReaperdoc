@@ -1,8 +1,7 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&pause=1000&color=00FFFF&width=685&lines=Hello%2C+Josh+Bernabe+here!!+%3C3)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=60&pause=1000&width=435&lines=Hello%2C+Josh+Bernabe+here!!+%3C3)](https://git.io/typing-svg)
 </div>
+
 <h3 align="center">A Passionate 3rd Yr. IT Student From The Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=printlnreaperdoc&label=Profile%20views&color=0e75b6&style=flat" alt="printlnreaperdoc" /> </p>
