@@ -9,7 +9,7 @@
 <h4 align="center">Currently studying at Technological University of the Philippines – Taguig Campus</h4>
 
 <div align="center">
-  <img src="https://tenor.com/bXlUM.gif" width="60%" alt="Bang Dream Bandori GIF">
+  <img src="https://media1.tenor.com/m/66lr5Pb6pEMAAAAd/bang-dream-bandori.gif" width="60%" alt="Bang Dream Bandori GIF">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=printlnreaperdoc&label=Profile%20views&color=0e75b6&style=flat" alt="printlnreaperdoc" /> </p>
