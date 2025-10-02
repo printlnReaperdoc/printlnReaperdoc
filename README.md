@@ -9,11 +9,7 @@
 <h4 align="center">Currently studying at Technological University of the Philippines – Taguig Campus</h4>
 
 <div align="center">
-<div class="tenor-gif-embed" data-postid="26499582" data-share-method="host" data-aspect-ratio="1.81818" data-width="60%">
-  <a href="https://tenor.com/view/bang-dream-bandori-afterglow-roselia-film-live2nd-stage-gif-26499582">Bang Dream Bandori GIF</a> from 
-  <a href="https://tenor.com/search/bang+dream-gifs">Bang Dream GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/bXlUM.gif" width="60%" alt="Bang Dream Bandori GIF">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=printlnreaperdoc&label=Profile%20views&color=0e75b6&style=flat" alt="printlnreaperdoc" /> </p>
